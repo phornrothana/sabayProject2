@@ -1,0 +1,23 @@
+:root{
+    --color-black:#333;
+    --color-white:#fff;
+    --bg-header:#161616;
+    --color-danger:#f2272f;
+    --color-primary:#4390f8;
+    --color-success:#38c378;
+    --color-warning:#f9a62d;
+    --color-secondary:#555555;
+    --default-font-family:'Koulen', cursive;
+    --bg-nav:#fa1939;
+    --color-pink:#fa5480;
+    --bg-nav-active:#d90c16;
+    --color-light-2:rgba(255,255,255,0.8);
+    --txt-nav-shadow:1px 1px 1px rgba(0 0 0 / 40%);
+    --linear-gradient-overlay:linear-gradient(to bottom,rgba(
+        0,0,0,0.5 )0%,rgba(0,0,0,0.8)60%,black 100% );
+    --default-transition:all 0.2s linear;
+    --second-font-family:'Battambang', cursive;
+    --box-content-shadow:1px 2px 2px 1px rgb(0 0 0 /20%);
+    --default-scale-in:scale(0.98);
+
+}
